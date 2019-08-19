@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/sora-chibi.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/riku-chibi.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/kiari-chibi.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/roxas-chibi.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/blue-chibi.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/namine-chibi.png",
+    "clicked": false
+  }
+]
